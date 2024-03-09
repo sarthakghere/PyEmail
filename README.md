@@ -62,6 +62,7 @@ The script will fetch emails from the Google Spreadsheet, send personalized emai
 
 - **Sarthak Gupta**
   - GitHub: [sarthakghere](https://github.com/sarthakghere)
+  - Twitter: [sarthakghere](https://twitter.com/sarthakghere)
 
 ## License
 
