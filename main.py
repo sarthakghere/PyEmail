@@ -29,10 +29,10 @@ PDF_PATH = []
 SUBJECT = "YOUR SUBJECT HERE"
 
 # Name of the column containing entity names in the spreadsheet
-NAME_COLUMN = "SCHOOLS"
+NAME_COLUMN = "Name Column Here"
 
 # Name of the column containing recipient emails in the spreadsheet
-EMAIL_COLUMN = "Email-id"
+EMAIL_COLUMN = "Email Column Here"
 
 # Function to send an email
 def send_mail(email, message, name):

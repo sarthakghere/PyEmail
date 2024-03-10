@@ -42,8 +42,8 @@ Before running the script, ensure you have the following:
 
    ```python
    SUBJECT = "YOUR SUBJECT HERE"
-   NAME_COLUMN = "SCHOOLS"
-   EMAIL_COLUMN = "Email-id"
+   NAME_COLUMN = "Name Column Here"
+   EMAIL_COLUMN = "Email Column Here"
    ```
 
 4. Add PDF and image paths to the respective lists in the script.
